@@ -1,2 +1,17 @@
-# MyImmuneCell
-To integrate granulocytes into the human immune reference at single-cell resolution across the lifespan, we present My Immune Cell Landscape, a multi-omic atlas of peripheral immunity from 954 healthy Chinese individuals (2–100 years), integrating CITE-seq, paired scTCR and scBCR, WES, WGS, proteomics, and clinical metadata.
+# Human Circulating Neutrophil Dynamics Across the Lifespan
+Large-scale single-cell profiling of human circulating neutrophils across the lifespan addresses a major gap in the understanding of immune homeostasis and aging. Here, My Immune Cell Landscape (MICL) is presented as a multimodal atlas of peripheral blood from 954 healthy Chinese individuals (2–100 years of age), integrating single-cell RNA, surface epitope, TCR, and BCR profiles from the same cells, along with bulk proteomics, whole-genome sequencing, and clinical laboratory measurements. The atlas resolves 99 biologically fine-grained cell subsets, comprising ~28.35 million cells from the granulocyte layer and ~23.54 million cells from the mononuclear cell layer.
+This repository stores the steps used to integrates granulocytes into the circulating immune landscape based on multi-omic profiling. These notebooks can be run sequentially by Python or R kernel, as both languages are utilized in this analysis.
+
+01-: 
+02-: 
+03-: 
+04-: 
+05-: 
+06-:
+
+
+
+Legal Information
+
+License
+The license for this package is available on Github in the file LICENSE.txt in this repository.
