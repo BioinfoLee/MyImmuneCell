@@ -7,6 +7,9 @@ Stage1 Reference atlas：Prior to conducting the large-scale cohort study, we pe
 
 Stage2 MyImmuneCell：Based on results of pilot experiments, hybrid samples (comprising equal cell numbers of PBMCs and whole-blood cells) were used for sequencing. For each sample, two technical replicates were set up to address potential technical variations and enable detection of larger number of cells per donor, followed by integrated cellular indexing of transcriptomes and epitopes (CITE-seq), scTCR-seq, and scBCR-seq. The code covers data preprocessing, cell annotation, and downstream analysis.
 
+
+<img width="1376" height="1190" alt="Graphical abstract" src="https://github.com/user-attachments/assets/c67c7c4b-f93f-4a1f-9880-91889702bc97" />
+
 Legal Information
 
 License
